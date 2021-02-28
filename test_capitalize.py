@@ -5,5 +5,5 @@ def capitalize_string(s):
 
 
 def test_capitalize_string():
-    assert capitalize_string("test") == "TestFail"
+    assert capitalize_string("test") == "Test"
 
